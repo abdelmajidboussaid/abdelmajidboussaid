@@ -36,9 +36,10 @@ xUnit • FluentAssertions • Moq
 
 ### 📬 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/abdelmajidboussaid)  
-[GitHub](https://github.com/abdelmajidboussaid)  
-[Email](mailto:Abdelmajid.boussaid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmajidboussaid)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abdelmajidboussaid)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abdelmajid.boussaid@gmail.com)
+
 
 ---
 
