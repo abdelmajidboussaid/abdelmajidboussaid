@@ -45,15 +45,15 @@ Stay tuned as I build my portfolio step by step.
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmajidboussaid)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/boussaid13)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abdelmajidboussaid)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abdelmajid.boussaid@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=boussaid13&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boussaid13&layout=compact&theme=transparent)
+![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelmajidboussaid&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmajidboussaid&layout=compact&theme=transparent)
 
 ---
 
